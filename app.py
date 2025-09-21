@@ -54,8 +54,8 @@ def draw_bouquet():
 # --- Streamlit ---
 st.set_page_config(page_title="Ramo de Girasoles", page_icon="🌻", layout="centered")
 
-st.title("🌻 Ramo de Girasoles Amarillos")
-st.write("Un ramo virtual creado con Python y Streamlit.")
+st.title("🌻 Ramo de Girasoles Amarillos para mi FOFI")
+st.write("Un ramo virtual creado con un poco de paciencia y mucho corazón para ti <3 .")
 
 # mostrar ramo
 fig = draw_bouquet()
